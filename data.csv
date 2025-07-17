@@ -1,0 +1,6 @@
+type,Training Accuracy,Validation Accuracy,Training Loss,Validation Loss
+Basic CNN,57,49,50,63
+EfficientNet-B0,71,70,38,49
+VGG16,68,65,28,35
+MobileNetV2,76,70,35,43
+Custom CNN,84,79,31,37

@@ -1,0 +1,396 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-4" id="vpTO2SeMAp0kOmaHaltM">
+        <mxGraphModel dx="535" dy="323" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="NPiS48egLta5LRqAt5xQ-0"/>
+                <mxCell id="NPiS48egLta5LRqAt5xQ-1" parent="NPiS48egLta5LRqAt5xQ-0"/>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="40" y="107" width="830" height="346" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFFFD;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="463" y="138" width="307" height="287" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFFFD;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="114" y="138" width="324" height="287" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--13" style="edgeStyle=none;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="133" y="275" as="targetPoint"/>
+                        <mxPoint x="101.4998804021784" y="275.18305003662493" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--0" value="Start" style="ellipse;whiteSpace=wrap;html=1;rotation=-90;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="13" y="248" width="123" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--4" value="" style="endArrow=none;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="133" y="405" as="sourcePoint"/>
+                        <mxPoint x="133" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--12" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--5" target="5Bu11Sx0gMO65LvD4Lx--6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" style="edgeStyle=none;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" target="5Bu11Sx0gMO65LvD4Lx--5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="133" y="193" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--5" value="Facial Image using Custom CNN&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-7;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="151" y="173" width="134" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--29" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--6" target="5Bu11Sx0gMO65LvD4Lx--14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--6" value="Converting facial expression into numerical value using Custom CNN model (x)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="305" y="156" width="120" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--10" style="edgeStyle=none;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="133" y="273" as="sourcePoint"/>
+                        <mxPoint x="186" y="273" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--30" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--7" target="5Bu11Sx0gMO65LvD4Lx--14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="459" y="273"/>
+                            <mxPoint x="459" y="193"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--7" value="Heart Rate (y) using&amp;nbsp;&lt;div&gt;Pulse Oximeter (MAX30102)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-42.33331298828125;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="186" y="248" width="146" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--11" style="edgeStyle=none;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" target="5Bu11Sx0gMO65LvD4Lx--8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="133" y="362" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--31" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--8" target="5Bu11Sx0gMO65LvD4Lx--14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="447" y="362"/>
+                            <mxPoint x="447" y="216"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--8" value="Depression (z)&amp;nbsp;&lt;div&gt;score using question from Handbook of Psychiatric Rating Scales&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;size=-14.3333740234375;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="165" y="328.5" width="192" height="67" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.597;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--14" target="5Bu11Sx0gMO65LvD4Lx--16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--14" value="Calculating the anxiety from the following equation :&lt;div&gt;F =&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;α&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;x +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;β&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;y +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;γ&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;z&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(where&amp;nbsp; 0 &amp;lt;&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;α&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;β&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;γ&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;lt; 1)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="492" y="148" width="225" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--35" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--16" target="5Bu11Sx0gMO65LvD4Lx--20" edge="1">
+                    <mxGeometry x="0.5771" y="12" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--36" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--16" target="5Bu11Sx0gMO65LvD4Lx--21" edge="1">
+                    <mxGeometry x="0.5099" y="8" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--16" value="F &amp;gt; anxiety level" style="rhombus;whiteSpace=wrap;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="574" y="268" width="105" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--38" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="133" y="391" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="550" y="432"/>
+                            <mxPoint x="115" y="432"/>
+                            <mxPoint x="115" y="390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--20" value="suggested activities to reduce anxiety&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="492" y="353.5" width="116" height="51.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--21" value="No anxiety&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="663" y="353.5" width="90" height="45.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--22" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="789" y="360" width="72" height="32.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Bu11Sx0gMO65LvD4Lx--39" value="To check on the anxitey level after the activities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="209" y="425" width="270" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ver67KelpmE-n1645e0a-0" value="Input Block" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="224" y="116" width="78" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="O1b6qhflt-y1BqD5o3pk-0" value="Processing Block" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="NPiS48egLta5LRqAt5xQ-1" vertex="1">
+                    <mxGeometry x="583.25" y="112" width="107.5" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="0" style="edgeStyle=none;html=1;entryX=-0.027;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;" parent="NPiS48egLta5LRqAt5xQ-1" source="5Bu11Sx0gMO65LvD4Lx--21" target="5Bu11Sx0gMO65LvD4Lx--22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="A95Mt7aVSPcS04egoG1D" name="Page-3">
+        <mxGraphModel dx="749" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="73wZiKzFMKrjG1hKUZUO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="165" y="150" width="530" height="353" as="geometry"/>
+                </mxCell>
+                <mxCell id="4wUCoSCLPr82j3-rMlT8-2" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NEr_E0IvvWr2n4EEcL94-1" target="NEr_E0IvvWr2n4EEcL94-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="256" y="314"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NEr_E0IvvWr2n4EEcL94-1" value="&lt;p class=&quot;&quot; data-end=&quot;255&quot; data-start=&quot;207&quot;&gt;&lt;span data-end=&quot;253&quot; data-start=&quot;207&quot;&gt;Facial Expression Recognition (FER) Module.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;255&quot; data-start=&quot;207&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;A machine learning model is used to analyze facial expressions.&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="168" y="158" width="175" height="89" as="geometry"/>
+                </mxCell>
+                <mxCell id="NEr_E0IvvWr2n4EEcL94-2" value="&lt;p class=&quot;&quot; data-end=&quot;363&quot; data-start=&quot;329&quot;&gt;&lt;span data-end=&quot;361&quot; data-start=&quot;329&quot;&gt;Heart Rate Monitoring Module&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;363&quot; data-start=&quot;329&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Hardware components (Raspberry Pi Pico W and MAX30102 sensor) are utilized to detect the user’s heart rate.&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="154" width="195" height="92" as="geometry"/>
+                </mxCell>
+                <mxCell id="4wUCoSCLPr82j3-rMlT8-1" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NEr_E0IvvWr2n4EEcL94-3" target="NEr_E0IvvWr2n4EEcL94-5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="592" y="447"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NEr_E0IvvWr2n4EEcL94-3" value="&lt;p class=&quot;&quot; data-end=&quot;513&quot; data-start=&quot;481&quot;&gt;&lt;span data-end=&quot;511&quot; data-start=&quot;481&quot;&gt;Standard Psychological Questionnaire&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;513&quot; data-start=&quot;481&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;The user responds to a set of p&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;sychological&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;questions(&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;dep_score&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;).&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="494" y="298" width="196" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="EBvsRM7GJtACn5FLAlmt-1" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NEr_E0IvvWr2n4EEcL94-4" target="NEr_E0IvvWr2n4EEcL94-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NEr_E0IvvWr2n4EEcL94-4" value="&lt;p class=&quot;&quot; data-end=&quot;610&quot; data-start=&quot;575&quot;&gt;&lt;span data-end=&quot;608&quot; data-start=&quot;575&quot;&gt;Data Integration &amp;amp; Processing&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;610&quot; data-start=&quot;575&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Data, taken from the FER module(&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;emotion_score&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;) and heart rate(&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;hr_score&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;) sensor are processing for&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;using in a predefined equation&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="274" y="264" width="191" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="NEr_E0IvvWr2n4EEcL94-5" value="&lt;p class=&quot;&quot; data-end=&quot;763&quot; data-start=&quot;732&quot;&gt;&lt;span data-end=&quot;761&quot; data-start=&quot;732&quot;&gt;Anxiety Score Computation&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;763&quot; data-start=&quot;732&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;The integrated data is processed to generate an overall anxiety score.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;763&quot; data-start=&quot;732&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;anxiety_score = α×emotion_score + β×hr_score + γ×dep_score&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="239" y="395" width="263" height="103" as="geometry"/>
+                </mxCell>
+                <mxCell id="NEr_E0IvvWr2n4EEcL94-7" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NEr_E0IvvWr2n4EEcL94-2" target="NEr_E0IvvWr2n4EEcL94-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="488" y="314"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Page-1" id="cUHa42amnq8aRSpTnHR6">
+        <mxGraphModel dx="749" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="waAKdNiQ6T7W7RFzofm3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="51" y="70" width="644" height="844" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFFFD;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="183" width="570" height="253" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFFFD;" parent="1" vertex="1">
+                    <mxGeometry x="128.75" y="465" width="491.25" height="355" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-1" target="riJcFSdoU8aNn6zIyN4Z-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-7" style="edgeStyle=none;html=1;" parent="1" target="riJcFSdoU8aNn6zIyN4Z-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="179" y="220.11863889532572" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-1" value="Facial Image using Custom CNN&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="112" y="258" width="134" height="53.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-5" style="edgeStyle=none;html=1;" parent="1" target="riJcFSdoU8aNn6zIyN4Z-2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="342" y="220" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-21" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-2" target="riJcFSdoU8aNn6zIyN4Z-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-2" value="Heart Rate (y) using&amp;nbsp;&lt;div&gt;Pulse Oximeter (MAX30102)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="269" y="303" width="146" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-6" style="edgeStyle=none;html=1;" parent="1" target="riJcFSdoU8aNn6zIyN4Z-3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="532" y="220.49999237060547" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-22" style="edgeStyle=none;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-3" target="riJcFSdoU8aNn6zIyN4Z-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="530" y="411"/>
+                            <mxPoint x="400" y="409"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-3" value="Depression (x)&amp;nbsp;&lt;div&gt;score using question from Handbook of Psychiatric Rating Scales&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="436" y="303" width="192" height="67" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-2" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-4" target="riJcFSdoU8aNn6zIyN4Z-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="179" y="452"/>
+                            <mxPoint x="287" y="452"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-4" value="Converting facial expression into numerical value using Custom CNN model (z)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+                    <mxGeometry x="119" y="338" width="120" height="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-14" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.737;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="riJcFSdoU8aNn6zIyN4Z-10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="396.82500000000005" y="520.1800000000001" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-8" value="Calculating the anxiety from the following equation :&lt;div&gt;F =&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;α&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;x +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;β&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;y +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;γ&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;z&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(where&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;α&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;β&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(40, 40, 40); font-family: Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;γ&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;lt; 0)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+                    <mxGeometry x="231" y="480" width="225" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-16" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-10" target="riJcFSdoU8aNn6zIyN4Z-15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="306" y="660"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-10" target="riJcFSdoU8aNn6zIyN4Z-11" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="491" y="660"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-10" value="F &amp;gt; anxiety level" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="620" width="105" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-13" style="edgeStyle=none;html=1;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-11" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="550" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="680" y="775"/>
+                            <mxPoint x="680" y="147"/>
+                            <mxPoint x="550" y="147"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-11" value="suggested activities to reduce anxiety&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="406.25" y="740" width="170" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="708.5" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-20" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-15" target="riJcFSdoU8aNn6zIyN4Z-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-15" value="No anxiety&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="246" y="740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-19" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="225" y="840" width="162" height="66" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="219.83334350585938" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-21" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="304" y="85" width="152" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-23" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="129" y="220" as="sourcePoint"/>
+                        <mxPoint x="576.25" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-25" value="Inputs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="244" y="190" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-28" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="708.5" width="46" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-29" value="To check on the anxitey level after the activities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="510" width="270" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="riJcFSdoU8aNn6zIyN4Z-30" value="Storing data&amp;nbsp;&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+                    <mxGeometry x="152.5" y="650" width="72.5" height="88.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-15" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="riJcFSdoU8aNn6zIyN4Z-8" target="riJcFSdoU8aNn6zIyN4Z-30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="287.25" y="519.9999999999999" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="287" y="610"/>
+                            <mxPoint x="190" y="610"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-25" value="Input Block" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="303.5" width="78" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="b8FKxg7rktw0uvYdR4L3-26" value="Processing Block" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="59.75" y="629.75" width="107.5" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="SfDxtdbptMXWVmL2Jcv7" name="Page-2">
+        <mxGraphModel dx="749" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-9" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QdCPo5B5MoJErCL8csWK-2" target="QdCPo5B5MoJErCL8csWK-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-2" value="ML Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QdCPo5B5MoJErCL8csWK-3" target="QdCPo5B5MoJErCL8csWK-7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="360" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-3" value="FER using ML model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QdCPo5B5MoJErCL8csWK-4" target="QdCPo5B5MoJErCL8csWK-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-4" value="Heartrate detection using Hardware" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QdCPo5B5MoJErCL8csWK-5" target="QdCPo5B5MoJErCL8csWK-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-5" value="Hardware (Pi Pico W and max30102)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-13" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QdCPo5B5MoJErCL8csWK-6" target="QdCPo5B5MoJErCL8csWK-7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="750" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-6" value="Behavioural question answer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="690" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-16" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QdCPo5B5MoJErCL8csWK-7" target="QdCPo5B5MoJErCL8csWK-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-7" value="Equation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdCPo5B5MoJErCL8csWK-8" value="Anxiety Score" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="650" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
